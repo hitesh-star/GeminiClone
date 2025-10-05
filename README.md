@@ -1,10 +1,7 @@
 # 🤖 Gemini Clone - Generative AI App (ReactJS)
 
 A **Generative AI application** built with **React JS** using the **Gemini API**.  
-This project is inspired by **Google Gemini** and works like ChatGPT, where users can interact with an AI assistant and get intelligent responses.  
-
-You can use this project as a **college project, portfolio project, or personal learning project**.  
-Deploy it easily on **Vercel** or **Netlify** and share it in your resume or LinkedIn profile.
+This project is inspired by **Google Gemini** and works like it, where users can interact with an AI assistant and get intelligent responses.  
 
 ---
 
@@ -22,7 +19,7 @@ Deploy it easily on **Vercel** or **Netlify** and share it in your resume or Lin
 - **React JS** (Frontend Framework)  
 - **Gemini API** (AI Model for responses)  
 - **CSS / Tailwind** (Styling)  
-- **Vercel / Netlify** (Deployment)
+- **Netlify** (Deployment)
 
 ---
 
